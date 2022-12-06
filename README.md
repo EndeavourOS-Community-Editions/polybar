@@ -1,5 +1,5 @@
 # Polybar config to i3 and BSPWM 
-Developer: name 95308907+bitterhalt@users.noreply.github.com
+Developer: bitterhalt
 
 ![2022-12-06_17-07](https://user-images.githubusercontent.com/95308907/206008451-fd094781-36a8-47b9-9d1f-ec4871e9f67d.png)
 
