@@ -15,3 +15,6 @@ For i3: use line: "polybar i3 2>&1 | tee -a /tmp/polybar.log & disown"
 
 For BSPWM: "polybar bspwm 2>&1 | tee -a /tmp/polybar.log & disown"
 
+
+ 
+ 
