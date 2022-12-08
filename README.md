@@ -9,5 +9,9 @@ https://github.com/polybar/polybar
 ---
 
 **Do 8. December 2022:**
+
 @bitterhalt won the contest for the first pull request, we look forward to more commits!
+
 https://github.com/EndeavourOS-Community-Editions/polybar/blob/main/tokyo-night-by-bitterhalt/README.md
+
+---
