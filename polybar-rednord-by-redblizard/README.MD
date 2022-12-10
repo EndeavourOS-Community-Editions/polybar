@@ -1,5 +1,7 @@
 Place the following in your bspwmrc file
 
+--> This polybar config is for now BSPWM ONLY !!!
+
 #LAUNCHERS
 $HOME/.config/polybar/launch.sh
 
