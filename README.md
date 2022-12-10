@@ -7,6 +7,7 @@ https://github.com/polybar/polybar
 * Please create a new folder with a meaningful name for your Polybar configuration.
 
 ---
+1.0
 
 **Do 8. December 2022:**
 
