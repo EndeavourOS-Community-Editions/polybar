@@ -26,6 +26,7 @@ https://github.com/EndeavourOS-Community-Editions/polybar/blob/main/tokyo-night-
 added a BSPWM polybar config
 
 https://github.com/EndeavourOS-Community-Editions/polybar/tree/main/polybar-rednord-by-redblizard
+
 ---
 
 
