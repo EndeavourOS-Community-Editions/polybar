@@ -1,6 +1,12 @@
 Place the following in your bspwmrc file
 
---> This polybar config is for now BSPWM ONLY !!!
+# This polybar config is for now BSPWM ONLY !!!
+# ttf-nerd-fonts-symbols-2048-em are needed for showing the icons in the bar
+
+# how to install the nerd fonts
+yay -S nerd-fonts-complete
+
+
 
 ```
 #LAUNCHERS
@@ -14,6 +20,7 @@ bspc query -M --names
 ###This creates and names desktops for multiple monitors.
 workspaces_multimonitor &
 
-bspc monitor eDP -d '' '' '' '' '' '' '' ''
-bspc monitor HDMI-A-0 -d '' '' '' '' '' '' '' ''
-```
+bspc monitor eDP -d I II III IV V VI VII VIII 
+bspc monitor HDMI-A-0 -d I II III IV V VI VII VIII 
+
+
