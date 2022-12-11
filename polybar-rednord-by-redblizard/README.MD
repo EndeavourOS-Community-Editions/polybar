@@ -1,4 +1,4 @@
-Place the following in your bspwmrc file
+*Developer RedBlizard
 
 # This polybar config is for now BSPWM ONLY !!!
 
@@ -8,7 +8,7 @@ Place the following in your bspwmrc file
 
 `yay -S nerd-fonts-complete
 
-
+**Place the following in your bspwmrc file**
 
 ```
 #LAUNCHERS
