@@ -6,7 +6,7 @@ Place the following in your bspwmrc file
 
 **how to install the nerd fonts:**
 
-yay -S nerd-fonts-complete
+`yay -S nerd-fonts-complete
 
 
 
