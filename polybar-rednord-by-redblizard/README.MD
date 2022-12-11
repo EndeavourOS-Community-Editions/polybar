@@ -1,4 +1,4 @@
-*Developer RedBlizard
+* Developer RedBlizard
 
 # This polybar config is for now BSPWM ONLY !!!
 
