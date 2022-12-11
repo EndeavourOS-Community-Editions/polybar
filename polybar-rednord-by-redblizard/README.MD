@@ -27,3 +27,5 @@ bspc monitor HDMI-A-0 -d I II III IV V VI VII VIII
 ```
 
 ![polybar-colored-icons](https://raw.githubusercontent.com/EndeavourOS-Community-Editions/polybar/main/polybar-rednord-by-redblizard/screenshots/polybar-colored-icons.png)
+
+![polybar-dimmed-icons](https://raw.githubusercontent.com/EndeavourOS-Community-Editions/polybar/main/polybar-rednord-by-redblizard/screenshots/polybar-dimmed-icons.png)
