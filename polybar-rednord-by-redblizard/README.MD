@@ -1,6 +1,12 @@
 Place the following in your bspwmrc file
 
---> This polybar config is for now BSPWM ONLY !!!
+# This polybar config is for now BSPWM ONLY !!!
+# ttf-nerd-fonts-symbols-2048-em are needed for showing the icons in the bar
+
+# how to install the nerd fonts
+yay -S nerd-fonts-complete
+
+
 
 ```
 #LAUNCHERS
