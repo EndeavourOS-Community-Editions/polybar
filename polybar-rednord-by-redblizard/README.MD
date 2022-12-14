@@ -25,7 +25,8 @@
  bspc monitor eDP -d I II III IV V VI VII VIII 
  bspc monitor HDMI-A-0 -d I II III IV V VI VII VIII 
  ```
+![polybar-colored-icons](https://user-images.githubusercontent.com/108489214/207673902-bda87d97-36db-4378-8513-346a08da8754.png)
 
-![polybar-colored-icons](https://raw.githubusercontent.com/EndeavourOS-Community-Editions/polybar/main/polybar-rednord-by-redblizard/screenshots/polybar-  colored-icons.png)
+![polybar-dimmed-icons](https://user-images.githubusercontent.com/108489214/207673951-ee285a64-4ac6-4f77-a229-ca446c871644.png)
 
-![polybar-dimmed-icons](https://raw.githubusercontent.com/EndeavourOS-Community-Editions/polybar/main/polybar-rednord-by-redblizard/screenshots/polybar-    dimmed-icons.png)
+
