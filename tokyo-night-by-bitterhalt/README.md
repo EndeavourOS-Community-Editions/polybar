@@ -5,6 +5,7 @@ Developer: bitterhalt
 
 ## Requirements 
 Polybar
+
 JetBrains Mono Nerd Font (Terminal Font Awesome should work too with symbols.
 
 You can also edit file and use any Nerd font that suits you..) 
