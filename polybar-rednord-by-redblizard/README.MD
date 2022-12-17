@@ -8,7 +8,7 @@
 
  `yay -S nerd-fonts-complete
  
-  **Place the following in your bspwmrc file**
+   **Place the following in your bspwmrc file**
 
  ```
  #LAUNCHERS
