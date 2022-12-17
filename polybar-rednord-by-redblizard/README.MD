@@ -10,8 +10,10 @@
 
 **important instruction for dimmed and colored icons on workspaces**
 
+** You need to edit the modules.ini file in here you will find the bspwm module**
+
  ```
-If you want to use the dimmed bspwm polybar icons
+If you want to use the dimmed icons on the workspaces you dont have to change anything.
 
 leaf the following uncommented
 
@@ -27,9 +29,9 @@ ws-icon-7 = "VIII;%{T1}  %{T-}"
 
 label-occupied = %icon%
 
-If you want to use the colored bspwm polybar icons
+If you want to use the colored icons on the workspaces do the following.
 
-First thing to do is to comment the above with a ;
+**First thing to do is to comment the above with a ;**
 
 And then uncomment the following see below
 
@@ -42,8 +44,7 @@ And then uncomment the following see below
 ;ws-icon-6 = VII;%{F#B48EAD}
 ;ws-icon-7 = VIII;%{F#989cff}
 
-Comment this line --> ;label-occupied = %icon%
-And uncomment this line -->  label-occupied = %icon%
+And dont forget to uncomment this line -->  ;label-occupied = %icon%
 ```
 
  **Place the following in your bspwmrc file**
