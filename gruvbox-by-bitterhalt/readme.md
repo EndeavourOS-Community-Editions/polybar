@@ -7,7 +7,7 @@ Developer: bitterhalt
 
 Polybar
 
-JetBrains Mono Nerd Font (Terminal Font Awesome should work too with symbols.
+JetBrains Mono Nerd Font
 
 You can also edit file and use any Nerd font that suits you..)
 
