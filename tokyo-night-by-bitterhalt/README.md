@@ -8,7 +8,7 @@ Polybar
 
 JetBrains Mono Nerd Font
 
-You can also edit file and use any Nerd font that suits you..)
+You can also edit file and use any Nerd font that suits you
 
 You must edit launch.sh according to your WM.
 
