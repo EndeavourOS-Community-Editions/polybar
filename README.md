@@ -41,5 +41,5 @@ added a gruvbox polybar config
 [gruvbox-by-bitterhalt](https://github.com/EndeavourOS-Community-Editions/polybar/tree/main/gruvbox-by-bitterhalt)
 
 ![gruvbox-polybar](https://user-images.githubusercontent.com/95308907/207900082-742f3622-843c-4941-8c71-4c10b8653d04.png)
-
+---
 
