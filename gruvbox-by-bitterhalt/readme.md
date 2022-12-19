@@ -1,9 +1,10 @@
 # Polybar config to i3 and BSPWM
 Developer: bitterhalt
 
-![2022-12-06_17-07](https://user-images.githubusercontent.com/95308907/206008451-fd094781-36a8-47b9-9d1f-ec4871e9f67d.png)
+![2022-12-15_17-24](https://user-images.githubusercontent.com/95308907/207900082-742f3622-843c-4941-8c71-4c10b8653d04.png)
 
 ## Requirements
+
 Polybar
 
 JetBrains Mono Nerd Font
@@ -17,7 +18,4 @@ For i3: use line:
 
 For BSPWM:
 `polybar bspwm 2>&1 | tee -a /tmp/polybar.log & disown`
-
-
-
 
