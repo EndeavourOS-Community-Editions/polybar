@@ -9,7 +9,7 @@ https://github.com/polybar/polybar
 
 1.
 
-**Do 8. December 2022:**
+**8. December 2022:**
 
 [@bitterhalt](https://github.com/bitterhalt)
  won the contest for the first pull request, we look forward to more commits!
@@ -21,7 +21,7 @@ https://github.com/polybar/polybar
 
 2. 
 
-**Sa 10. December 2022:**
+**10. December 2022:**
 
 [@redblizard](https://github.com/RedBlizard)
 added a BSPWM polybar config
@@ -29,8 +29,16 @@ added a BSPWM polybar config
 [polybar-rednord-by-redblizard](https://github.com/EndeavourOS-Community-Editions/polybar/tree/main/polybar-rednord-by-redblizard/README.md)
 
 ![polybar-dimmed-icons](https://raw.githubusercontent.com/EndeavourOS-Community-Editions/polybar/main/polybar-rednord-by-redblizard/screenshots/polybar-dimmed-icons.png)
-
 ---
 
+3.
+
+**19. December 2022:**
+
+[@bitterhalt](https://github.com/bitterhalt)
+added a gruvbox polybar config
+
+[gruvbox-by-bitterhalt(https://github.com/EndeavourOS-Community-Editions/polybar/tree/main/gruvbox-by-bitterhalt)
+![gruvbox-polybar](https://user-images.githubusercontent.com/95308907/207900082-742f3622-843c-4941-8c71-4c10b8653d04.png)
 
 
