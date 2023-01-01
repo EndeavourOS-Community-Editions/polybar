@@ -1,5 +1,7 @@
 # polybar
-the place to share your polybar configs
+the place to share your polybar configs.
+
+Everyone is welcome to contribute polybar configs here! I will be happe to merge your contribution, and keep updates merged if needed.
 
 https://github.com/polybar/polybar
 
