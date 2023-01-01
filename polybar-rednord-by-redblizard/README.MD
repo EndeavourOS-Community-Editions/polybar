@@ -1,6 +1,6 @@
 * Developer RedBlizard
 
- # This polybar config is for now BSPWM ONLY !!!
+ # This polybar config is for BSPWM and i3 !!!
 
  **ttf-nerd-fonts-symbols-2048-em are needed for showing the icons in the bar**
 
@@ -69,6 +69,12 @@ Now you will have the colored icons on the workspaces enjoy.
 ```
 ![polybar-colored-icons](https://user-images.githubusercontent.com/108489214/207673902-bda87d97-36db-4378-8513-346a08da8754.png)
 
+
+
 ![polybar-dimmed-icons](https://user-images.githubusercontent.com/108489214/207673951-ee285a64-4ac6-4f77-a229-ca446c871644.png)
+
+
+
+![polybar i3](https://user-images.githubusercontent.com/108489214/210162917-d2232e0e-7d6d-48f3-bac0-e95206e81529.png)
 
 
