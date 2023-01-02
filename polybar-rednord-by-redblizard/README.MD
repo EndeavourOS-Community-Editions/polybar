@@ -66,14 +66,11 @@ And then uncomment the following see below
 
 Now you will have the colored icons on the workspaces enjoy.
 ```
-**important instruction for making Polybar more transparant**
+**important instructions colors.ini and pipewire/volume module**
  
 Open the colors.ini file find the color for the background and chnage the color from #d92e3440 to #800A0E14
 This is already prepared in the colors.ini file.
-```
 
-*important instruction for the pipewire/volume module**
-```
 First fully remove pulseaudio install pipewire-pulse.
 And place this command in your bspwmrc file: ~/.config/bspwm/scripts/polybar-reload.sh
 This is beacuse otherwise the pipewire module will not load correctly during startup and Polybar needs a reload for it to work
