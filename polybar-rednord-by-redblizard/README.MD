@@ -65,20 +65,20 @@ And then uncomment the following see below
 ;label-occupied = %icon%
 
 Now you will have the colored icons on the workspaces enjoy.
-
+```
 **important instruction for making Polybar more transparant**
- ```
+ 
 Open the colors.ini file find the color for the background and chnage the color from #d92e3440 to #800A0E14
 This is already prepared in the colors.ini file.
 ```
-```
-*important instruction for the pipewire/volume module**
 
+*important instruction for the pipewire/volume module**
+```
 First fully remove pulseaudio install pipewire-pulse.
 And place this command in your bspwmrc file: ~/.config/bspwm/scripts/polybar-reload.sh
 This is beacuse otherwise the pipewire module will not load correctly during startup and Polybar needs a reload for it to work
 
-```
+
 ![polybar-colored-icons](https://user-images.githubusercontent.com/108489214/207673902-bda87d97-36db-4378-8513-346a08da8754.png)
 
 
