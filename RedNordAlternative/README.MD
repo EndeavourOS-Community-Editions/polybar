@@ -78,5 +78,8 @@ This is because otherwise the pipewire-module will not load correctly during sta
 
 ![Polybar RedNordAlternative](https://user-images.githubusercontent.com/108489214/212528128-e9b32c4f-9d3f-4375-8b39-bfaad61c0516.png)
 
+![Polybar RedNordAlternative-minimal](https://user-images.githubusercontent.com/108489214/212529211-69f4ce52-ed9a-4f99-bed1-5f5b8bb19808.png)
+
+
 
 
