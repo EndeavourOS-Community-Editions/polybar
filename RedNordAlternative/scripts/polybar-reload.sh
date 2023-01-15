@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pkill -USR1 polybar
+polybar-msg cmd restart
