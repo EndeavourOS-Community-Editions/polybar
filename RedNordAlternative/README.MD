@@ -76,14 +76,7 @@ And place this command in your bspwmrc file: ~/.config/bspwm/scripts/polybar-rel
 This is because otherwise the pipewire-module will not load correctly during startup and Polybar needs a reload for it to work.
 ```
 
-![polybar-colored-icons](https://user-images.githubusercontent.com/108489214/207673902-bda87d97-36db-4378-8513-346a08da8754.png)
+![Polybar RedNordAlternative](https://user-images.githubusercontent.com/108489214/212528128-e9b32c4f-9d3f-4375-8b39-bfaad61c0516.png)
 
-
-
-![polybar-dimmed-icons](https://user-images.githubusercontent.com/108489214/207673951-ee285a64-4ac6-4f77-a229-ca446c871644.png)
-
-
-
-![polybar i3](https://user-images.githubusercontent.com/108489214/210162917-d2232e0e-7d6d-48f3-bac0-e95206e81529.png)
 
 
