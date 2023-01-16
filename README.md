@@ -28,9 +28,8 @@ https://github.com/polybar/polybar
 [@redblizard](https://github.com/RedBlizard)
 added a BSPWM polybar config
 
-[polybar-rednord-by-redblizard](https://github.com/EndeavourOS-Community-Editions/polybar/tree/main/polybar-rednord-by-redblizard/README.md)
+![polybar-rednord dimmed icons](https://user-images.githubusercontent.com/108489214/212776146-76965d3b-ec9e-4887-aacf-362497dd66c7.png)
 
-![polybar-dimmed-icons](https://raw.githubusercontent.com/EndeavourOS-Community-Editions/polybar/main/polybar-rednord-by-redblizard/screenshots/polybar-dimmed-icons.png)
 ---
 
 3.
