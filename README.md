@@ -44,3 +44,13 @@ added a gruvbox polybar config
 ![gruvbox-polybar](https://user-images.githubusercontent.com/95308907/207900082-742f3622-843c-4941-8c71-4c10b8653d04.png)
 ---
 
+4.
+
+**15. Januari 2023:**
+
+[@redblizard](https://github.com/RedBlizard)
+added a BSPWM/I3 polybar config (RedNordAlternative)
+
+![Polybar RedNordAlternative-minimal](https://user-images.githubusercontent.com/108489214/212907289-f6baffbb-9ed8-4420-8f39-882b75e348ef.png)
+---
+
