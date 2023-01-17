@@ -26,7 +26,7 @@ https://github.com/polybar/polybar
 **10. December 2022:**
 
 [@redblizard](https://github.com/RedBlizard)
-added a BSPWM/I3 polybar config
+added a BSPWM/I3 polybar config (RedNord)
 
 ![polybar-rednord dimmed icons](https://user-images.githubusercontent.com/108489214/212776146-76965d3b-ec9e-4887-aacf-362497dd66c7.png)
 
