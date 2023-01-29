@@ -104,3 +104,6 @@ First fully remove pulseaudio install pipewire-pulse.
 And place this command in your bspwmrc file: ~/.config/bspwm/scripts/polybar-reload.sh
 This is because otherwise the pipewire-module will not load correctly during startup and Polybar needs a reload for it to work.
 ```
+![29-01-2023 15:30:47](https://user-images.githubusercontent.com/108489214/215334999-b23d3584-e853-4f77-9a03-47fd2124abf0.png)
+
+
