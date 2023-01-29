@@ -26,11 +26,10 @@ https://github.com/polybar/polybar
 **10. December 2022:**
 
 [@redblizard](https://github.com/RedBlizard)
-added a BSPWM polybar config
+added a BSPWM/I3 polybar config (RedNord)
 
-[polybar-rednord-by-redblizard](https://github.com/EndeavourOS-Community-Editions/polybar/tree/main/polybar-rednord-by-redblizard/README.md)
+![polybar-rednord dimmed icons](https://user-images.githubusercontent.com/108489214/212776146-76965d3b-ec9e-4887-aacf-362497dd66c7.png)
 
-![polybar-dimmed-icons](https://raw.githubusercontent.com/EndeavourOS-Community-Editions/polybar/main/polybar-rednord-by-redblizard/screenshots/polybar-dimmed-icons.png)
 ---
 
 3.
@@ -43,5 +42,15 @@ added a gruvbox polybar config
 [gruvbox-by-bitterhalt](https://github.com/EndeavourOS-Community-Editions/polybar/tree/main/gruvbox-by-bitterhalt)
 
 ![gruvbox-polybar](https://user-images.githubusercontent.com/95308907/207900082-742f3622-843c-4941-8c71-4c10b8653d04.png)
+---
+
+4.
+
+**29. Januari 2023:**
+
+[@redblizard](https://github.com/RedBlizard)
+added a BSPWM/I3 polybar config (endeavour-aurora)
+
+![29-01-2023 15:30:47](https://user-images.githubusercontent.com/108489214/215333756-f7e4f9fc-bf0e-42e5-bf38-a4be0c8a4bfb.png)
 ---
 

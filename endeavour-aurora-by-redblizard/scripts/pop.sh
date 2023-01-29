@@ -2,9 +2,10 @@
 
 BAR_HEIGHT=28
 BORDER_SIZE=1
-YAD_WIDTH=300
+YAD_WIDTH=700
 YAD_HEIGHT=188
-DATE="$(date +"%a %d %H:%M")"
+DATE=" $( date +"%D  %H:%M")"
+       
 
 case "$1" in
 --popup)
@@ -19,7 +20,7 @@ case "$1" in
     if [ "$((X + YAD_WIDTH / 2 + BORDER_SIZE))" -gt "$WIDTH" ]; then #Right side
         : $((pos_x = WIDTH - YAD_WIDTH - BORDER_SIZE))
     elif [ "$((X - YAD_WIDTH / 2 - BORDER_SIZE))" -lt 0 ]; then #Left side
-        : $((pos_x =1743))
+        : $((pos_x =1674))
     else #Center
         : $((pos_x = X - YAD_WIDTH / 2))
     fi

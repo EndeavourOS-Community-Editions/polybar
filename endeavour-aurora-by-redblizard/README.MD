@@ -65,21 +65,45 @@ And then uncomment the following see below
 ;label-occupied = %icon%
 
 Now you will have the colored icons on the workspaces enjoy.
-```
-**important instructions colors.ini and pipewire/volume module**
-``` 
-Open the colors.ini file find the color for the background and chnage the color from #d92e3440 to #800A0E14
-This is already prepared in the colors.ini file.
 
+Now you can have also japanese numbers in polybar.
+
+# japanese workspace icons in polybar
+;ws-icon-0 = I;一
+;ws-icon-1 = II;二
+;ws-icon-2 = III;三
+;ws-icon-3 = IV;四
+;ws-icon-4 = V;五
+;ws-icon-5 = VI;六
+;ws-icon-6 = VII;七
+;ws-icon-7 = VIII;八
+
+For it the work you need to remove ; by the following lines:
+
+;format = <label-state>
+;label-focused = %{T5}%icon%%{T-}
+;label-occupied = %{T5}%icon%%{T-}
+;label-urgent = %{T5}%icon%%{T-}
+;label-empty = %{T5}%icon%%{T-}
+
+And you need to place a ; in front of the following lines:
+
+format = <label-state> <label-mode>
+label-focused = %icon%
+label-occupied = %icon%
+label-urgent = %icon%
+label-empty = %icon%
+
+And last dont forget to remove the ; by the japanese workspace icons and place a ; in front of the dimmed polybar icon lines in the module.ini file
+Now you can enjoy the japanese numbers in your polybar. ( this option is not working yet in the i3 module.
+
+```
+**important instructions pipewire/volume module**
+``` 
 First fully remove pulseaudio install pipewire-pulse.
 And place this command in your bspwmrc file: ~/.config/bspwm/scripts/polybar-reload.sh
 This is because otherwise the pipewire-module will not load correctly during startup and Polybar needs a reload for it to work.
 ```
-
-![Polybar RedNordAlternative](https://user-images.githubusercontent.com/108489214/212528128-e9b32c4f-9d3f-4375-8b39-bfaad61c0516.png)
-
-![Polybar RedNordAlternative-minimal](https://user-images.githubusercontent.com/108489214/212529211-69f4ce52-ed9a-4f99-bed1-5f5b8bb19808.png)
-
-
+![29-01-2023 15:30:47](https://user-images.githubusercontent.com/108489214/215334999-b23d3584-e853-4f77-9a03-47fd2124abf0.png)
 
 

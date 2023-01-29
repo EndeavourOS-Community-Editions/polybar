@@ -14,7 +14,7 @@ while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
 
 # Launch Polybar
 polybar bigscreen &
-#polybar smallscreen &
+polybar smallscreen &
 
 sleep 1
 
