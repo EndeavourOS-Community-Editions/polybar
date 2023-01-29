@@ -46,11 +46,11 @@ added a gruvbox polybar config
 
 4.
 
-**15. Januari 2023:**
+**29. Januari 2023:**
 
 [@redblizard](https://github.com/RedBlizard)
-added a BSPWM/I3 polybar config (RedNordAlternative)
+added a BSPWM/I3 polybar config (endeavour-aurora)
 
-![Polybar RedNordAlternative-minimal](https://user-images.githubusercontent.com/108489214/212907289-f6baffbb-9ed8-4420-8f39-882b75e348ef.png)
+![29-01-2023 15:30:47](https://user-images.githubusercontent.com/108489214/215333756-f7e4f9fc-bf0e-42e5-bf38-a4be0c8a4bfb.png)
 ---
 
